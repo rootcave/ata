@@ -42,33 +42,56 @@
                                         <li>
                                             <img alt="" src="<?= IMG_DIR; ?>products/shafat.jpg" />
                                         </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/shafat.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/shafat.jpg" />
-                                        </li>
+
 
 
 
                                     </ul>
                                 </div>
 
-                                <div class="features">
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">شفاط 35 سم</h1>
-
-                                        <p>                                        شكل مميز
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">شفاط 25 سم  </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                    شكل مميز
                                         </p>
-                                        <p>                                        ماتور قوي للشفط
+                                        <p class="arabic">                                    ماتور قوي للشفط
                                         </p>
-                                        <p>                                        شبكة خلفية معدن
+                                        <p class="arabic">                                    شبكة خلفية معدن
                                         </p>
-                                        <p>                                        شبكة امامية
+                                        <p class="arabic">                                    شبكة امامية
                                         </p>
                                     </div>
-
                                 </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureB" class="accordionRadio"  />
+                                    <label for="featureB" class="accordionLabel"><span class="accordionSpan arabic">شفاط 30 سم</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                    شكل مميز
+                                        </p>
+                                        <p class="arabic">                                    ماتور قوي للشفط
+                                        </p>
+                                        <p class="arabic">                                    شبكة خلفية معدن
+                                        </p>
+                                        <p class="arabic">                                    شبكة امامية
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureC" class="accordionRadio"  />
+                                    <label for="featureC" class="accordionLabel"><span class="accordionSpan arabic">شفاط 35 سم</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                        شكل مميز
+                                        </p>
+                                        <p class="arabic">                                        ماتور قوي للشفط
+                                        </p>
+                                        <p class="arabic">                                        شبكة خلفية معدن
+                                        </p>
+                                        <p class="arabic">                                        شبكة امامية
+                                        </p>
+                                    </div>
+                                </div>
+
                                         <div class="clearfix"></div>
 
 
@@ -83,37 +106,6 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
-
-                                <h3 class="arabic" style="color: #315ba6;">شفاط 25 سم</h3>
-                                <ul class="arabic">
-
-                                    <li class="arabic">                                    شكل مميز
-                                    </li>
-                                    <li class="arabic">                                    ماتور قوي للشفط
-                                    </li>
-                                    <li class="arabic">                                    شبكة خلفية معدن
-                                    </li>
-                                    <li class="arabic">                                    شبكة امامية
-                                    </li>
-                                </ul>
-
-                            </li>
-                            <li class="what-we-do-widget widget arabic">
-
-                                <h3 class="arabic" style="color: #315ba6;">شفاط 30 سم</h3>
-                                <ul class="arabic">
-                                    <li class="arabic">                                    شكل مميز
-                                    </li>
-                                    <li class="arabic">                                    ماتور قوي للشفط
-                                    </li>
-                                    <li class="arabic">                                    شبكة خلفية معدن
-                                    </li>
-                                    <li class="arabic">                                    شبكة امامية
-                                    </li>
-                                </ul>
-
-                            </li>
 
                         </ul>
 
@@ -125,4 +117,3 @@
     </div>
     <!-- End content -->
 
-shafat
