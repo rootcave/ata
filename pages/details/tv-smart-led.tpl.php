@@ -42,62 +42,93 @@
                                         <li>
                                             <img alt="" src="<?= IMG_DIR; ?>products/tv2.jpg" />
                                         </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/tv2.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/tv2.jpg" />
-                                        </li>
+
 
                                     </ul>
                                 </div>
 
-                                <div class="features">
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">شاشة SMART  43   LED</h1>
-                                        <p>مدخل  USB  Movies / 2</p>
-                                        <p>مدخل   / HD  2</p>
-                                        <p>وضوح كامل للحركة  Full HD  1080 x 1920</p>
-                                        <p>إضاءة ذاتية للخلايا</p>
-                                        <p>VGA</p>
-                                        <p>صوت مجسم قوي ستريو</p>
-                                        <p>متعدد انظمة الصوت والصورة </p>
-                                        <p>PPI  / 30000</p>
-                                        <p>مدخل  AV  / OUT   AV / IN 2   </p>
-                                        <p>مدخل LAN  +   WIFI</p>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">شاشة SMART  32  LED</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">مدخل  USB  Movies / 2</p>
+                                        <p class="arabic">مدخل   / HD  2</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد أنظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV / IN 2     AV  / OUT  </p>
+                                        <p class="arabic"> مدخل LAN  +   WIFI</p>
                                     </div>
-                                    <div class="feature">
-
-                                        <h1 style="color: #315ba6;">شاشة SMART  50   LED </h1>
-                                        <p>مدخل  USB  Movies / 3</p>
-                                        <p>مدخل   / HD  2</p>
-                                        <p>وضوح كامل للحركة  Full HD  1080 x 1920</p>
-                                        <p>إضاءة ذاتية للخلايا</p>
-                                        <p>VGA</p>
-                                        <p>صوت مجسم قوي ستريو</p>
-                                        <p>متعدد أنظمة الصوت والصورة </p>
-                                        <p>PPI  / 30000</p>
-                                        <p>مدخل  AV / IN 2       AV  / OUT  </p>
-                                        <p>مدخل LAN  +   WIFI</p>
-                                    </div>
-                                    <hr>
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">شاشة  SMART  55   LED </h1>
-                                        <p>مدخل  USB  Movies / 3</p>
-                                        <p>مدخل   / HD 2</p>
-                                        <p>وضوح كامل للحركة  Full HD  1080 x 1920</p>
-                                        <p>إضاءة ذاتية للخلايا</p>
-                                        <p>VGA</p>
-                                        <p>صوت مجسم قوي ستريو</p>
-                                        <p>متعدد أنظمة الصوت والصورة </p>
-                                        <p>PPI  / 30000</p>
-                                        <p>مدخل  AV / IN 2       AV  / OUT  </p>
-                                        <p> مدخل LAN  +   WIFI</p>
-                                    </div>
-
-
-                                    <!--End features-->
                                 </div>
+                                <div class="clearfix"></div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureB" class="accordionRadio" checked />
+                                    <label for="featureB" class="accordionLabel"><span class="accordionSpan arabic">شاشة SMART  32  LED</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">مدخل  USB  Movies / 2</p>
+                                        <p class="arabic">مدخل   / HD  2</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد أنظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV  / OUT    AV / IN 2   </p>
+                                        <p class="arabic">مدخل LAN  +   WIFI</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureC" class="accordionRadio" checked />
+                                    <label for="featureC" class="accordionLabel"><span class="accordionSpan arabic">شاشة SMART  43   LED</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">مدخل  USB  Movies / 2</p>
+                                        <p class="arabic">مدخل   / HD  2</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد انظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV  / OUT   AV / IN 2   </p>
+                                        <p class="arabic">مدخل LAN  +   WIFI</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureD" class="accordionRadio" checked />
+                                    <label for="featureD" class="accordionLabel"><span class="accordionSpan arabic">شاشة SMART  50   LED</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">مدخل  USB  Movies / 3</p>
+                                        <p class="arabic">مدخل   / HD  2</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد أنظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV / IN 2       AV  / OUT  </p>
+                                        <p class="arabic">مدخل LAN  +   WIFI</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureE" class="accordionRadio" checked />
+                                    <label for="featureE" class="accordionLabel"><span class="accordionSpan arabic">شاشة  SMART  55   LED</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">مدخل  USB  Movies / 3</p>
+                                        <p class="arabic">مدخل   / HD 2</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد أنظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV / IN 2       AV  / OUT  </p>
+                                        <p class="arabic"> مدخل LAN  +   WIFI</p>
+                                    </div>
+                                </div>
+
                                 <div class="clearfix"></div>
 
                             </div>
@@ -111,39 +142,7 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
 
-                                <h3 class="arabic" style="color: #315ba6;">شاشة SMART  32  LED</h3>
-                                <ul class="arabic">
-                                    <li class="arabic">مدخل  USB  Movies / 2</li>
-                                    <li class="arabic">مدخل   / HD  2</li>
-                                    <li class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</li>
-                                    <li class="arabic">إضاءة ذاتية للخلايا</li>
-                                    <li class="arabic">VGA</li>
-                                    <li class="arabic">صوت مجسم قوي ستريو</li>
-                                    <li class="arabic">متعدد أنظمة الصوت والصورة </li>
-                                    <li class="arabic">PPI  / 30000</li>
-                                    <li class="arabic">مدخل  AV / IN 2     AV  / OUT  </li>
-                                    <li class="arabic"> مدخل LAN  +   WIFI</li>
-                                </ul>
-
-                            </li>
-
-                            <li class="what-we-do-widget widget arabic">
-                                <h3 class="arabic" style="color: #315ba6;">SMART  39   LED</h3>
-                                <ul class="arabic">
-                                    <li class="arabic">مدخل  USB  Movies / 2</li>
-                                    <li class="arabic">مدخل   / HD  2</li>
-                                    <li class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</li>
-                                    <li class="arabic">إضاءة ذاتية للخلايا</li>
-                                    <li class="arabic">VGA</li>
-                                    <li class="arabic">صوت مجسم قوي ستريو</li>
-                                    <li class="arabic">متعدد أنظمة الصوت والصورة </li>
-                                    <li class="arabic">PPI  / 30000</li>
-                                    <li class="arabic">مدخل  AV  / OUT    AV / IN 2   </li>
-                                    <li class="arabic">مدخل LAN  +   WIFI</li>
-                                </ul>
-                            </li>
                         </ul>
 
                     </div>

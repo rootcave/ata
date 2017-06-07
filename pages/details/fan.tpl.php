@@ -55,60 +55,97 @@
                                     </ul>
                                 </div>
 
-                                <div class="features">
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مروحة حائط 18  بوصة  </h1>
-                                        <p> 18 بوصة شكل مميز</p>
-                                        <p> 3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مروحة عامود 18 بوصة  </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">18 بوصة شكل مميز</p>
+                                        <p class="arabic"> 3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                        <p class="arabic">سهوله التحكم في ارتفاع المروحة</p>
+                                        <p class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</p>
                                     </div>
-                                    <div class="feature">
-
-                                        <h1 style="color: #315ba6;">مروحة حائط 16  بوصة  </h1>
-                                        <p>16 بوصة شكل مميز</p>
-                                        <p>3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
-                                    </div>
-                                    <hr>
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مروحة عامود 18 بوصة  خمسة ريشة</h1>
-                                        <p>18 بوصة شكل مميز</p>
-                                        <p>3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
-                                        <p>سهوله التحكم في ارتفاع المروحة</p>
-                                        <p>قاعدة صلبه تتحكم في اتزان المروحة</p>
-                                    </div>
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مروحة مكتب 16  بوصة   </h1>
-                                        <p>16 بوصة شكل مميز</p>
-                                        <p>3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
-                                    </div>
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مروحة عامود 18 بوصة  ريموت خمسة ريشة</h1>
-                                        <p>18 بوصة شكل مميز</p>
-                                        <p>3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
-                                        <p>سهوله التحكم في ارتفاع المروحة</p>
-                                        <p>قاعدة صلبه تتحكم في اتزان المروحة</p>
-                                        <p>ريموت كنترول للتحكم عن بعد</p>
-                                    </div>
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مروحة بوكس 12 بوصة  </h1>
-                                        <p>12 بوصة شكل مميز</p>
-                                        <p>3 سرعات </p>
-                                        <p>تايمر 60 دقيقة</p>
-                                        <p>سهوله التحكم في اتجاه الهواء</p>
-                                    </div>
-
-
-                                    <!--End features-->
                                 </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureB" class="accordionRadio"  />
+                                    <label for="featureB" class="accordionLabel"><span class="accordionSpan arabic">مروحة عامود 18 بوصة  ريموت</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic"> 18 بوصة شكل مميز</p>
+                                        <p class="arabic">  3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                        <p class="arabic">سهوله التحكم في ارتفاع المروحة</p>
+                                        <p class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</p>
+                                        <p class="arabic">ريموت كنترول للتحكم عن بعد</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureC" class="accordionRadio"  />
+                                    <label for="featureC" class="accordionLabel"><span class="accordionSpan arabic">مروحة حائط 18  بوصة  </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic"> 18 بوصة شكل مميز</p>
+                                        <p class="arabic"> 3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureD" class="accordionRadio"  />
+                                    <label for="featureD" class="accordionLabel"><span class="accordionSpan arabic">مروحة حائط 16  بوصة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">16 بوصة شكل مميز</p>
+                                        <p class="arabic">3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureE" class="accordionRadio"  />
+                                    <label for="featureE" class="accordionLabel"><span class="accordionSpan arabic">مروحة عامود 18 بوصة  خمسة ريشة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">18 بوصة شكل مميز</p>
+                                        <p class="arabic">3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                        <p class="arabic">سهوله التحكم في ارتفاع المروحة</p>
+                                        <p class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureF" class="accordionRadio"  />
+                                    <label for="featureF" class="accordionLabel"><span class="accordionSpan arabic">مروحة مكتب 16  بوصة   </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">16 بوصة شكل مميز</p>
+                                        <p class="arabic">3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureG" class="accordionRadio"  />
+                                    <label for="featureG" class="accordionLabel"><span class="accordionSpan arabic">مروحة عامود 18 بوصة  ريموت خمسة ريشة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">18 بوصة شكل مميز</p>
+                                        <p class="arabic">3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                        <p class="arabic">سهوله التحكم في ارتفاع المروحة</p>
+                                        <p class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</p>
+                                        <p class="arabic">ريموت كنترول للتحكم عن بعد</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureH" class="accordionRadio"  />
+                                    <label for="featureH" class="accordionLabel"><span class="accordionSpan arabic">مروحة بوكس 12 بوصة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">12 بوصة شكل مميز</p>
+                                        <p class="arabic">3 سرعات </p>
+                                        <p class="arabic">تايمر 60 دقيقة</p>
+                                        <p class="arabic">سهوله التحكم في اتجاه الهواء</p>
+                                    </div>
+                                </div>
+
                                 <div class="clearfix"></div>
 
                             </div>
@@ -122,32 +159,7 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
 
-                                <h3 class="arabic" style="color: #315ba6;">مروحة عامود 18 بوصة  </h3>
-                                <ul class="arabic">
-                                    <li class="arabic">18 بوصة شكل مميز</li>
-                                    <li class="arabic"> 3 سرعات </li>
-                                    <li class="arabic">تايمر 60 دقيقة</li>
-                                    <li class="arabic">سهوله التحكم في اتجاه الهواء</li>
-                                    <li class="arabic">سهوله التحكم في ارتفاع المروحة</li>
-                                    <li class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</li>
-                                </ul>
-
-                            </li>
-
-                            <li class="what-we-do-widget widget arabic">
-                                <h3 class="arabic" style="color: #315ba6;">مروحة عامود 18 بوصة  ريموت</h3>
-                                <ul class="arabic">
-                                    <li class="arabic"> 18 بوصة شكل مميز</li>
-                                    <li class="arabic">  3 سرعات </li>
-                                    <li class="arabic">تايمر 60 دقيقة</li>
-                                    <li class="arabic">سهوله التحكم في اتجاه الهواء</li>
-                                    <li class="arabic">سهوله التحكم في ارتفاع المروحة</li>
-                                    <li class="arabic">قاعدة صلبه تتحكم في اتزان المروحة</li>
-                                    <li class="arabic">ريموت كنترول للتحكم عن بعد</li>
-                                </ul>
-                            </li>
                         </ul>
 
                     </div>
