@@ -42,34 +42,56 @@
                                         <li>
                                             <img alt="" src="<?= IMG_DIR; ?>products/watercooler.jpg" />
                                         </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/watercooler.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/watercooler.jpg" />
-                                        </li>
+
 
 
                                     </ul>
                                 </div>
 
-                                <div class="features">
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">مبرد مياه 3 حنفية بالثلاجة</h1>
-                                        <p>عدد 2 تنك</p>
-                                        <p>تنك 3 لتر مياه باردة</p>
-                                        <p>تنك 1 لتر مياه ساخنة</p>
-                                        <p>عدد 3 حنفية</p>
-                                        <p>درجة التبريد اكبر من او يساوي 10 درجة مائوية</p>
-                                        <p>درجة تسخين المياه اقل من 85 درجة مائوية</p>
-                                        <p>•	يوجد ثلاجة  1.5 قدم</p>
-                                        <p>شكل مميز يناسب البيت العصري</p>
-
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مبرد مياه 2 حنفية</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">  عدد 2 تنك</p>
+                                        <p class="arabic">تنك 3 لتر مياه باردة</p>
+                                        <p class="arabic">تنك 1 لتر مياه ساخنة</p>
+                                        <p class="arabic">عدد 2 حنفية</p>
+                                        <p class="arabic">درجة التبريد اكبر من او يساوي 10 درجة مائوية</p>
+                                        <p class="arabic">درجة تسخين المياه اقل من 85 درجة مائوية</p>
+                                        <p class="arabic">يوجد حفظة اطعمة</p>
+                                        <p class="arabic">شكل مميز يناسب البيت العصري</p>
                                     </div>
-
-
-                                    <!--End features-->
                                 </div>
+
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureB" class="accordionRadio"  />
+                                    <label for="featureB" class="accordionLabel"><span class="accordionSpan arabic">مبرد مياه 3 حنفية</span></label>
+                                    <div class="info-med">
+                                        <p class="class">عدد 2 تنك</p>
+                                        <p class="arabic">تنك 3 لتر مياه باردة</p>
+                                        <p class="arabic">تنك 1 لتر مياه ساخنة</p>
+                                        <p class="arabic">عدد 3 حنفية</p>
+                                        <p class="arabic">درجة التبريد اكبر من او يساوي 10 درجة مائوية</p>
+                                        <p class="arabic">درجة تسخين المياه اقل من 85 درجة مائوية</p>
+                                        <p class="arabic">يوجد حفظة اطعمة</p>
+                                        <p class="arabic">شكل مميز يناسب البيت العصري</p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureC" class="accordionRadio"  />
+                                    <label for="featureC" class="accordionLabel"><span class="accordionSpan arabic">مبرد مياه 3 حنفية بالثلاجة</span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">عدد 2 تنك</p>
+                                        <p class="arabic">تنك 3 لتر مياه باردة</p>
+                                        <p class="arabic">تنك 1 لتر مياه ساخنة</p>
+                                        <p class="arabic">عدد 3 حنفية</p>
+                                        <p class="arabic">درجة التبريد اكبر من او يساوي 10 درجة مائوية</p>
+                                        <p class="arabic">درجة تسخين المياه اقل من 85 درجة مائوية</p>
+                                        <p class="arabic">•	يوجد ثلاجة  1.5 قدم</p>
+                                        <p class="arabic">شكل مميز يناسب البيت العصري</p>
+                                    </div>
+                                </div>
+
                                 <div class="clearfix"></div>
 
                             </div>
@@ -83,37 +105,6 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
-
-                                <h3 class="arabic" style="color: #315ba6;">مبرد مياه 2 حنفية</h3>
-                                <ul class="arabic">
-                                    <li class="arabic">  عدد 2 تنك</li>
-                                    <li class="arabic">تنك 3 لتر مياه باردة</li>
-                                    <li class="arabic">تنك 1 لتر مياه ساخنة</li>
-                                    <li class="arabic">عدد 2 حنفية</li>
-                                    <li class="arabic">درجة التبريد اكبر من او يساوي 10 درجة مائوية</li>
-                                    <li class="arabic">درجة تسخين المياه اقل من 85 درجة مائوية</li>
-                                    <li class="arabic">يوجد حفظة اطعمة</li>
-                                    <li class="arabic">شكل مميز يناسب البيت العصري</li>
-
-                                </ul>
-
-                            </li>
-
-                            <li class="what-we-do-widget widget arabic">
-                                <h3 class="arabic" style="color: #315ba6;">مبرد مياه 3 حنفية</h3>
-                                <ul class="arabic">
-                                    <li class="class">عدد 2 تنك</li>
-                                    <li class="arabic">تنك 3 لتر مياه باردة</li>
-                                    <li class="arabic">تنك 1 لتر مياه ساخنة</li>
-                                    <li class="arabic">عدد 3 حنفية</li>
-                                    <li class="arabic">درجة التبريد اكبر من او يساوي 10 درجة مائوية</li>
-                                    <li class="arabic">درجة تسخين المياه اقل من 85 درجة مائوية</li>
-                                    <li class="arabic">يوجد حفظة اطعمة</li>
-                                    <li class="arabic">شكل مميز يناسب البيت العصري</li>
-
-                                </ul>
-                            </li>
                         </ul>
 
                     </div>
