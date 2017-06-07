@@ -45,18 +45,24 @@
                                         <li>
                                             <img alt="" src="<?= IMG_DIR; ?>products/mixer1.jpg" />
                                         </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/mixer.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/mixer1.jpg" />
-                                        </li>
+
 
 
                                     </ul>
                                 </div>
 
-
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">خلاط  </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                    عدد 2 مطحنة
+                                        </p>
+                                        <p class="arabic">                                    عدد  1 شفشك
+                                        </p>
+                                        <p class="arabic">                                    سلاح غير قابل لاصداء
+                                        </p>
+                                    </div>
+                                </div>
 
                             </div>
 
@@ -69,20 +75,7 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
 
-                                <h3 class="arabic" style="color: #315ba6;">خلاط    </h3>
-                                <ul class="arabic">
-
-                                    <li class="arabic">                                    عدد 2 مطحنة
-                                    </li>
-                                    <li class="arabic">                                    عدد  1 شفشك
-                                    </li>
-                                    <li class="arabic">                                    سلاح غير قابل لاصداء
-                                    </li>
-                                </ul>
-
-                            </li>
 
 
                         </ul>

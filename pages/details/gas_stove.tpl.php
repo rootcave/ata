@@ -42,19 +42,28 @@
                                         <li>
                                             <img alt="" src="<?= IMG_DIR; ?>products/flat.jpg" />
                                         </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/flat.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/flat.jpg" />
-                                        </li>
+
 
 
 
                                     </ul>
                                 </div>
 
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مسطح 3 عين  </span></label>
+                                    <div class="info-sm">
 
+                                        <p class="arabic">                                    جسم استيلس غير قابل للصداء
+                                        </p>
+                                        <p class="arabic">                                   اشعال ذاتي
+                                        </p>
+                                        <p class="arabic">                                   شعله زهر
+                                        </p>
+                                        <p class="arabic">                                    شكل يناسب البيت العصري
+                                        </p>
+                                    </div>
+                                </div>
 
                             </div>
 
@@ -69,17 +78,9 @@
 
                             <li class="what-we-do-widget widget arabic">
 
-                                <h3 class="arabic" style="color: #315ba6;">مسطح 3 عين    </h3>
+                                <h3 class="arabic" style="color: #315ba6;">    </h3>
                                 <ul class="arabic">
 
-                                    <li class="arabic">                                    جسم استيلس غير قابل للصداء
-                                    </li>
-                                    <li class="arabic">                                   اشعال ذاتي
-                                    </li>
-                                    <li class="arabic">                                   شعله زهر
-                                    </li>
-                                    <li class="arabic">                                    شكل يناسب البيت العصري
-                                    </li>
                                 </ul>
 
                             </li>
