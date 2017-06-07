@@ -43,17 +43,28 @@
                                             <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg" />
                                         </li>
 
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg" />
-                                        </li>
-                                        <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg" />
-                                        </li>
+
 
                                     </ul>
                                 </div>
 
-
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">شاشة  LED 49   CURVED </span></label>
+                                    <div class="info-med">
+                                        <p class="arabic">صممت شاشة ATA  المنحنية  Curved  لتعطيك مشاهدة ممتعة من كل الزوايا</p>
+                                        <p class="arabic">خاصية    Auto Depth Enhancer ستحصل علي أحساس 3 D</p>
+                                        <p class="arabic">مدخل  USB  Movies / 2</p>
+                                        <p class="arabic">مدخل   / HD 3</p>
+                                        <p class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</p>
+                                        <p class="arabic">إضاءة ذاتية للخلايا</p>
+                                        <p class="arabic">VGA</p>
+                                        <p class="arabic">صوت مجسم قوي ستريو</p>
+                                        <p class="arabic">متعدد أنظمة الصوت والصورة </p>
+                                        <p class="arabic">PPI  / 30000</p>
+                                        <p class="arabic">مدخل  AV / IN 2         AV  / OUT   </p>
+                                    </div>
+                                </div>
 
                             </div>
 
@@ -66,24 +77,7 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
 
-                                <h3 class="arabic" style="color: #315ba6;">شاشة  LED 49   CURVED </h3>
-                                <ul class="arabic">
-                                    <li class="arabic">صممت شاشة ATA  المنحنية  Curved  لتعطيك مشاهدة ممتعة من كل الزوايا</li>
-                                    <li class="arabic">خاصية    Auto Depth Enhancer ستحصل علي أحساس 3 D</li>
-                                    <li class="arabic">مدخل  USB  Movies / 2</li>
-                                    <li class="arabic">مدخل   / HD 3</li>
-                                    <li class="arabic">وضوح كامل للحركة  Full HD  1080 x 1920</li>
-                                    <li class="arabic">إضاءة ذاتية للخلايا</li>
-                                    <li class="arabic">VGA</li>
-                                    <li class="arabic">صوت مجسم قوي ستريو</li>
-                                    <li class="arabic">متعدد أنظمة الصوت والصورة </li>
-                                    <li class="arabic">PPI  / 30000</li>
-                                    <li class="arabic">مدخل  AV / IN 2         AV  / OUT   </li>
-                                </ul>
-
-                            </li>
 
 
                         </ul>
