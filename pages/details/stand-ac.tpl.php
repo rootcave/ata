@@ -48,7 +48,15 @@
                                 </div>
 
 
-
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مبرد هواء  </span></label>
+                                    <div class="info-med">
+                                        <p class="arabic"> 3 سرعات </p>
+                                        <p class="arabic">3 جوانب للتبريد</p>
+                                        <p class="arabic">تدفق هواء سريع مع هواء بارد</p>
+                                    </div>
+                                </div>
                             </div>
 
                         </div>
@@ -60,19 +68,6 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
-
-                                <h3 class="arabic" style="color: #315ba6;">مبرد هواء  </h3>
-                                <ul class="arabic">
-                                    <li class="arabic"> 3 سرعات </li>
-                                    <li class="arabic">3 جوانب للتبريد</li>
-                                    <li class="arabic">تدفق هواء سريع مع هواء بارد</li>
-                                </ul>
-
-                            </li>
-
-
-                            </li>
                         </ul>
 
                     </div>
