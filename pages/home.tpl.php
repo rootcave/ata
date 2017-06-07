@@ -25,22 +25,22 @@
                 <div class="row-fluid">
 
                     <div class="span3">
-                        <a class="responsive" href="#"></a>
+                        <a class="responsive" ></a>
                         <h2>الكفاءة</h2>
                     </div>
 
                     <div class="span3">
-                        <a class="support" href="#"></a>
+                        <a class="support" ></a>
                         <h2>التنوع</h2>
                     </div>
 
                     <div class="span3">
-                        <a class="builder" href="#"></a>
+                        <a class="builder" ></a>
                         <h2>الجودة</h2>
                     </div>
 
                     <div class="span3">
-                        <a class="customizable" href="#"></a>
+                        <a class="customizable" ></a>
                         <h2>الضمان</h2>
                     </div>
                 </div>
