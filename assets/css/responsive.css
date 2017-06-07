@@ -177,6 +177,9 @@
 }
 
 @media (max-width: 768px) {
+	.content{
+		margin-top: 130px;
+	}
 	body {
 		padding: 0;
 	}

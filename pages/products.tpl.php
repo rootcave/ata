@@ -25,7 +25,7 @@
     <!-- End Slider -->
 
     <!-- Content -->
-    <div class="content" style="margin-top: 100px;">
+    <div class="content" >
         <div class="container">
             <ul class="filter-items">
                 <li><a href="#" class="active" data-filter="*">اظهر الجميع</a></li>
