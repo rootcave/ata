@@ -24,7 +24,7 @@
         <!-- End Slider -->
 
         <!-- Content -->
-        <div class="content" style="margin-top:120px">
+        <div class="content" >
             <div class="container about">
                 <div class="row-fluid">
                     <div class="span8">
