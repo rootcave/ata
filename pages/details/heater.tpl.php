@@ -53,38 +53,69 @@
                                     </ul>
                                 </div>
 
-                                <div class="features">
-                                    <div class="feature">
-                                        <h1 style="color: #315ba6;">دفاية 3 شمعة </h1>
-                                        <p>                                        شكل مميز
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">دفاية  عامود 18 بوصة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                    شكل مميز
                                         </p>
-                                        <p>                                        دفاية متحركة
+                                        <p class="arabic">                                    هياتر 480
                                         </p>
-                                        <p>                                        امكانية التحكم في حرارة الدفاية
+                                        <p class="arabic">                                    إمكانية التوزيع في جميع الاتجاهات
                                         </p>
-                                        <p>                                        3 مستويات للحرارة
+                                        <p class="arabic">                                    تايمر 60 دقيقة
                                         </p>
-                                    </div>
-                                    <div class="feature">
-
-                                        <h1 style="color: #315ba6;">دفاية  مكتب 20 بوصة  </h1>
-                                        <p>                                        شكل مميز
-                                        </p>
-                                        <p>                                        هياتر 480
-                                        </p>
-                                        <p>                                        امكانية التوزيع في جميع الاتجاهات
-                                        </p>
-                                        <p>                                        تايمر 60 دقيقة
-                                        </p>
-                                        <p>                                        أيطار سيفتي للحماية
+                                        <p class="arabic">                                    أيطار سيفتي للحماية
                                         </p>
                                     </div>
-                                    <hr>
-
-
-
-                                    <!--End features-->
                                 </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureB" class="accordionRadio"  />
+                                    <label for="featureB" class="accordionLabel"><span class="accordionSpan arabic">دفاية  عامود 16 بوصة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                    شكل مميز
+                                        </p>
+                                        <p class="arabic">                                    هياتر 480
+                                        </p>
+                                        <p class="arabic">                                    امكانية التوزيع في جميع الاتجاهات
+                                        </p>
+                                        <p class="arabic">                                    تايمر 60 دقيقة
+                                        </p>
+                                        <p class="arabic">                                    أيطار سيفتي للحماية
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureC" class="accordionRadio"  />
+                                    <label for="featureC" class="accordionLabel"><span class="accordionSpan arabic">دفاية 3 شمعة</span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                        شكل مميز
+                                        </p>
+                                        <p class="arabic">                                        دفاية متحركة
+                                        </p>
+                                        <p class="arabic">                                        امكانية التحكم في حرارة الدفاية
+                                        </p>
+                                        <p class="arabic">                                        3 مستويات للحرارة
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="block">
+                                    <input type="radio" name="feature" id="featureD" class="accordionRadio"  />
+                                    <label for="featureD" class="accordionLabel"><span class="accordionSpan arabic">دفاية  مكتب 20 بوصة  </span></label>
+                                    <div class="info-sm">
+                                        <p class="arabic">                                        شكل مميز
+                                        </p>
+                                        <p class="arabic">                                        هياتر 480
+                                        </p>
+                                        <p class="arabic">                                        امكانية التوزيع في جميع الاتجاهات
+                                        </p>
+                                        <p class="arabic">                                        تايمر 60 دقيقة
+                                        </p>
+                                        <p class="arabic">                                        أيطار سيفتي للحماية
+                                        </p>
+                                    </div>
+                                </div>
+
                                 <div class="clearfix"></div>
 
                             </div>
@@ -98,40 +129,6 @@
                     <div class="span4 sidebar">
                         <ul class="widgets">
 
-                            <li class="what-we-do-widget widget arabic">
-
-                                <h3 class="arabic" style="color: #315ba6;">دفاية  عامود 18 بوصة  </h3>
-                                <ul class="arabic">
-                                    <li class="arabic">                                    شكل مميز
-                                    </li>
-                                    <li class="arabic">                                    هياتر 480
-                                    </li>
-                                    <li class="arabic">                                    إمكانية التوزيع في جميع الاتجاهات
-                                    </li>
-                                    <li class="arabic">                                    تايمر 60 دقيقة
-                                    </li>
-                                    <li class="arabic">                                    أيطار سيفتي للحماية
-                                    </li>
-                                </ul>
-
-                            </li>
-
-                            <li class="what-we-do-widget widget arabic">
-                                <h3 class="arabic" style="color: #315ba6;">دفاية  عامود 16 بوصة</h3>
-                                <ul class="arabic">
-
-                                    <li class="arabic">                                    شكل مميز
-                                    </li>
-                                    <li class="arabic">                                    هياتر 480
-                                    </li>
-                                    <li class="arabic">                                    امكانية التوزيع في جميع الاتجاهات
-                                    </li>
-                                    <li class="arabic">                                    تايمر 60 دقيقة
-                                    </li>
-                                    <li class="arabic">                                    أيطار سيفتي للحماية
-                                    </li>
-                                </ul>
-                            </li>
                         </ul>
 
                     </div>
