@@ -10,9 +10,9 @@
     <div id="slider" >
     <div class="overlay">
    <ul class="bxslider">
-  <li><img src="assets/images/slider/1.jpg" /></li>
-  <li><img src="assets/images/slider/2.jpg" /></li>
-  <li><img src="assets/images/slider/3.jpg" /></li>
+  <li><img src="assets/images/slider/1.png" /></li>
+  <li><img src="assets/images/slider/2.png" /></li>
+  <li><img src="assets/images/slider/3.png" /></li>
 </ul>
   </div>
    </div>
