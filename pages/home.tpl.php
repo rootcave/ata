@@ -58,7 +58,7 @@
                             <!-- Carosell first-line -->
                             <div class="item active">
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv1.jpg">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
                                         <p>شاشة LED</p>
@@ -153,14 +153,14 @@
                         </div>
                     </div>
                     <div class="span4 team-member">
-                        <h3>اسامة عطا</h3>
+                        <h3>محمود عطا</h3>
                         <img alt="" src="<?= IMG_DIR; ?>team/GM.jpg">
                         <div>
                             <p>مدير عام</p>
                         </div>
                     </div>
                     <div class="span4 team-member">
-                        <h3>محمود عطا</h3>
+                        <h3>  اسامة عطا </h3>
                         <img alt="" src="<?= IMG_DIR; ?>team/CEO.jpg">
                         <div>
                             <p>رئيس مجلس الادارة</p>

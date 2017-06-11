@@ -356,7 +356,7 @@ body {
 .project-content p {
 	color: #fff;
 	font-size: 13px;
-	
+
 	line-height: 18px;
 	margin-bottom: 10px;
 	padding: 0 15px;
@@ -453,7 +453,7 @@ body {
 	margin: 0;
 	color: #fff;
 	font-size: 15px;
-	
+
 	font-weight: 600;
 	background: #315ba6;
 	position: relative;
@@ -482,11 +482,11 @@ body {
 }
 
 .team-member:hover img {
-	transform:scale(1.5) rotate(360deg);
-	-webkit-transform:scale(1.5) rotate(360deg);
-	-moz-transform:scale(1.5) rotate(360deg);
-	-o-transform:scale(1.5) rotate(360deg);
-	-ms-transform:scale(1.5) rotate(360deg);
+	/* transform:scale(1.5) rotate(360deg); */
+	/* -webkit-transform:scale(1.5) rotate(360deg); */
+	/* 	-moz-transform:scale(1.5) rotate(360deg);
+        -o-transform:scale(1.5) rotate(360deg);
+        -ms-transform:scale(1.5) rotate(360deg); */
 }
 
 .team-member div {

@@ -37,6 +37,16 @@
             </ul>
 
             <div class="projects-container">
+
+                <div class="project-post tv">
+                    <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
+                    <div class="project-content">
+                        <h2>شاشات</h2>
+                        <p>شاشات LED CURVED</p>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv3.jpg" title="شاشات LED CURVED" data-fancybox-group="portfolio"></a>
+                        <a class="link-image" href="tv-curved-led.php"></a>
+                    </div>
+                </div>
                 <div class="project-post tv">
                     <img alt="" src="<?= IMG_DIR; ?>products/tv1.jpg">
                     <div class="project-content">
