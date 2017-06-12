@@ -13,6 +13,9 @@
   <li><img src="assets/images/slider/1.png" /></li>
   <li><img src="assets/images/slider/2.png" /></li>
   <li><img src="assets/images/slider/3.png" /></li>
+  <li><img src="assets/images/slider/4.png" /></li>
+  <li><img src="assets/images/slider/5.png" /></li>
+
 </ul>
   </div>
    </div>
