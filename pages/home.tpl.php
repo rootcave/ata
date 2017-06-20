@@ -161,14 +161,15 @@
                         <h3>محمود عطا</h3>
                         <img alt="" src="<?= IMG_DIR; ?>team/GM.jpg">
                         <div>
-                            <p>مدير عام</p>
+                        <p>رئيس مجلس الادارة</p>
+                            
                         </div>
                     </div>
                     <div class="span4 team-member">
                         <h3>  اسامة عطا </h3>
                         <img alt="" src="<?= IMG_DIR; ?>team/CEO.jpg">
                         <div>
-                            <p>رئيس مجلس الادارة</p>
+                            <p>مدير عام</p>
                         </div>
                     </div>
                 </div>
