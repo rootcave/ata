@@ -46,8 +46,11 @@
                                 <p><img alt="" src="<?= IMG_DIR; ?>mail.png"><a href="#">info@ata.com</a></p>
                             </div>
                             <div class="span6 find-us">
-                                <h3>Find Us</h3>
-                                <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.</p>
+                                <h3>اعثر علينا</h3>
+                                    <p>
+                                    ولأن التطور هدفنا والتنوع عندنا  حرصون دائماً على إرضاء جميع عملائنا 
+للتواصل من أجل الشكاوى والإقتراحات برجاء برجاء إرسال الرسائل مرفق معها الإسم ورقم التلفيون
+                                    </p>
                             </div>
                         </div>
 

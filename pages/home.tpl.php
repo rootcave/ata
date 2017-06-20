@@ -11,10 +11,12 @@
     <div class="overlay">
    <ul class="bxslider">
   <li><img src="assets/images/slider/1.png" /></li>
-  <li><img src="assets/images/slider/2.png" /></li>
+  <li><img src="assets/images/slider/6.png" /></li>
   <li><img src="assets/images/slider/3.png" /></li>
-  <li><img src="assets/images/slider/4.png" /></li>
-  <li><img src="assets/images/slider/5.png" /></li>
+  <li><img src="assets/images/slider/11.png" /></li>
+  <li><img src="assets/images/slider/10.png" /></li>
+  <li><img src="assets/images/slider/2.png" /></li>
+
 
 </ul>
   </div>
