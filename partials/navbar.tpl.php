@@ -30,6 +30,9 @@
         <li>
          <a href="contact.php">تواصل معنا</a>
         </li>
+        <li>
+            <a href="where-to-find-us.php">اماكن تواجدنا</a>
+        </li>
        </ul>
       </div>
      </div>

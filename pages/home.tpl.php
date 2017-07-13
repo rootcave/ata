@@ -151,8 +151,8 @@
                 <h2><span>فريق العمل</span></h2>
                 <div class="row-fluid">
                     <div class="span4 team-member">
-                        <h3>Jonathan Smith</h3>
-                        <img alt="" src="<?= IMG_DIR; ?>team/CEO.jpg">
+                        <h3>عطا عبد الحميد</h3>
+                        <img alt="" src="<?= IMG_DIR; ?>team/avatar-placeholder.png">
                         <div>
                             <p>مدير قسم المبيعات</p>
                         </div>

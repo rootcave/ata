@@ -37,6 +37,26 @@
             </ul>
 
             <div class="projects-container">
+                
+                <div class="project-post tv">
+                    <img alt="" src="<?= IMG_DIR; ?>products/tv5.jpg">
+                    <div class="project-content">
+                        <h2>شاشات</h2>
+                        <p>شاشات SMART SILVER</p>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv5.jpg" title="شاشات SMART SILVER" data-fancybox-group="portfolio"></a>
+                        <a class="link-image" href="tv-silver-smart.php"></a>
+                    </div>
+                </div>
+                
+                <div class="project-post tv">
+                    <img alt="" src="<?= IMG_DIR; ?>products/tv4.jpg">
+                    <div class="project-content">
+                        <h2>شاشات</h2>
+                        <p>شاشات SMART GOLD</p>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv4.jpg" title="شاشات SMART GOLD" data-fancybox-group="portfolio"></a>
+                        <a class="link-image" href="tv-gold-smart.php"></a>
+                    </div>
+                </div>
 
                 <div class="project-post tv">
                     <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
@@ -110,8 +130,8 @@
                     <img alt="" src="<?= IMG_DIR; ?>products/fan4.jpg">
                     <div class="project-content">
                         <h2>مراوح</h2>
-                        <p>مروحة عمود </p>
-                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/fan4.jpg" title="مروحة عمود" data-fancybox-group="portfolio"></a>
+                        <p>مروحة قائمة </p>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/fan4.jpg" title="مروحة قائمة" data-fancybox-group="portfolio"></a>
                         <a class="link-image" href="fan.php"></a>
                     </div>
                 </div>
@@ -128,8 +148,8 @@
                     <img alt="" src="<?= IMG_DIR; ?>products/oven2.jpg">
                     <div class="project-content">
                         <h2>افران</h2>
-                        <p>افران اربعة مفتاح تحكم</p>
-                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/oven2.jpg" title="افران اربعة مفتاح تحكم" data-fancybox-group="portfolio"></a>
+                        <p>فرن مع 2 سخان كهرباء</p>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/oven2.jpg" title="فرن مع 2 سخان كهرباء" data-fancybox-group="portfolio"></a>
                         <a class="link-image" href="oven.php"></a>
                     </div>
                 </div>
