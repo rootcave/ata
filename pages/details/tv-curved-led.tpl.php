@@ -28,7 +28,7 @@
     <div class="content" style="margin-top: 120px;">
         <div class="container">
             <section class="single-work">
-                <h2><span>شاشات SMART LED</span></h2>
+                <h2><span>شاشات CURVED LED</span></h2>
                 <div class="row-fluid">
 
                     <!-- project-box -->

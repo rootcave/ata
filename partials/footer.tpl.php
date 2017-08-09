@@ -21,7 +21,7 @@
            <li><i class="fa fa-map-marker"></i> المصانع: مدينة 6 اكتوبر - المنطقة الصناعية السادسة</li>
            <li><i class="fa fa-map-marker"></i> الادارة: 7 شارع عبد العزيز - القاهرة</li>
            <li><i class="fa fa-phone"></i> 23958433 - 23958983</li>
-           <li><i class="fa fa-envelope"></i> info@ata.com</li>
+           <li><i class="fa fa-envelope"></i> info@atagroup-eg.com</li>
            <li><i class="fa fa-envelope"></i> customerservice@atagroup-eg.com </li>
            <li><i class="fa fa-envelope"></i> importexport@atagroup-eg.com </li>
            <li><i class="fa fa-envelope"></i> mahmoudata@atagroup-eg.com </li>
