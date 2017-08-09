@@ -657,7 +657,7 @@ footer {
 .footer-widget p {
 	color: #fff;
 	font-size: 13px;
-	font-family: 'Open Sans', sans-serif;
+	/* font-family: 'Open Sans', sans-serif; */
 	line-height: 17px;
 	margin-bottom: 15px;
 }

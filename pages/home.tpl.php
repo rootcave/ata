@@ -11,10 +11,10 @@
     <div class="overlay">
    <ul class="bxslider">
   <li><img src="assets/images/slider/1.png" /></li>
-  <li><img src="assets/images/slider/6.png" /></li>
-  <li><img src="assets/images/slider/3.png" /></li>
-  <li><img src="assets/images/slider/11.png" /></li>
-  <li><img src="assets/images/slider/10.png" /></li>
+<!--  <li><img src="assets/images/slider/6.png" /></li>-->
+<!--  <li><img src="assets/images/slider/3.png" /></li>-->
+<!--  <li><img src="assets/images/slider/11.png" /></li>-->
+<!--  <li><img src="assets/images/slider/10.png" /></li>-->
   <li><img src="assets/images/slider/2.png" /></li>
 
 
@@ -44,9 +44,10 @@
                         <h2>الجودة</h2>
                     </div>
 
-                    <div class="span3">
-                        <a class="customizable" ></a>
+                    <div class="span3" >
+                        <a class="customizable" href="assets/images/daman/daman.png" target="_blank"> </a>
                         <h2>الضمان</h2>
+
                     </div>
                 </div>
             </section>
@@ -63,22 +64,22 @@
                             <!-- Carosell first-line -->
                             <div class="item active">
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv4.jpg">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
-                                        <p>شاشة LED</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv1.jpg" title="شاشة LED" data-fancybox-group="portfolio"></a>
-                                        <a class="link-image" href="tv-led.php"></a>
+                                        <p>شاشة SMART GOLD</p>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv4.jpg" title="شاشة SMART GOLD" data-fancybox-group="portfolio"></a>
+                                        <a class="link-image" href="tv-gold-smart.php"></a>
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/fan1.jpg">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/cooler.png">
 
                                     <div class="project-content">
-                                        <h2>مراوح</h2>
-                                        <p>مراوح عمود</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/fan1.jpg" title="مراوح عمود" data-fancybox-group="portfolio"></a>
-                                        <a class="link-image" href="fan.php"></a>
+                                        <h2>مبرد هواء</h2>
+                                        <p>دمبرد هواء</p>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/cooler.png" title="مبرد هواء" data-fancybox-group="portfolio"></a>
+                                        <a class="link-image" href="stand-ac.php"></a>
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
@@ -91,12 +92,12 @@
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv2.jpg">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv6.png">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
-                                        <p>شاشة SMART LED</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv2.jpg" title="شاشة SMART LED" data-fancybox-group="portfolio"></a>
-                                        <a class="link-image" href="tv-smart-led.php"></a>
+                                        <p>شاشة Curved LED</p>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv6.png" title="شاشة Curved LED" data-fancybox-group="portfolio"></a>
+                                        <a class="link-image" href="tv-curved-led.php"></a>
                                     </div>
                                 </div>
                             </div>
@@ -114,12 +115,12 @@
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv-silver.png">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
-                                        <p>شاشة CURVED LED</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv3.jpg" title="شاشة CURVED LED" data-fancybox-group="portfolio"></a>
-                                        <a class="link-image" href="tv-curved-led.php"></a>
+                                        <p>شاشة SMART SILVER LED</p>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv-silver.png" title="شاشة SMART SILVER LED" data-fancybox-group="portfolio"></a>
+                                        <a class="link-image" href="tv-silver-smart.php"></a>
                                     </div>
                                 </div>
                                 <div class="span3 project-post">

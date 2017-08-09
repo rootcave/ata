@@ -51,7 +51,7 @@
 
                                 <div class="block">
                                     <input type="radio" name="feature" id="featureA" class="accordionRadio" checked />
-                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مسطح 3 عين  </span></label>
+                                    <label for="featureA" class="accordionLabel"><span class="accordionSpan arabic">مصطح 3 عين  </span></label>
                                     <div class="info-sm">
 
                                         <p class="arabic">                                    جسم استيلس غير قابل للصداء

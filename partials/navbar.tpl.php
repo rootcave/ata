@@ -11,8 +11,12 @@
        <span class="icon-bar"></span>
       </button>
       <div class="logo">
-       <a class="brand" href="index.php">
-        <img alt="" src="<?= IMG_DIR; ?>logo.png">
+
+          <a class="brand" href="index.php">
+              <span class="fa fa-phone" style="color:white; margin-right: 10px;">  19833</span>
+
+              <img alt="" src="<?= IMG_DIR; ?>logo.png">
+
        </a>
       </div>
       <div class="nav-collapse collapse">

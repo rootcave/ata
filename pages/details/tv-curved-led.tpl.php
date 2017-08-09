@@ -43,6 +43,14 @@
                                             <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg" />
                                         </li>
 
+                                        <li>
+                                            <img alt="" src="<?= IMG_DIR; ?>products/tv6.png" />
+                                        </li>
+
+                                        <li>
+                                            <img alt="" src="<?= IMG_DIR; ?>products/tv7.png" />
+                                        </li>
+
 
 
                                     </ul>

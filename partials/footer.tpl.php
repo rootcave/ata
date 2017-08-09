@@ -22,6 +22,11 @@
            <li><i class="fa fa-map-marker"></i> الادارة: 7 شارع عبد العزيز - القاهرة</li>
            <li><i class="fa fa-phone"></i> 23958433 - 23958983</li>
            <li><i class="fa fa-envelope"></i> info@ata.com</li>
+           <li><i class="fa fa-envelope"></i> customerservice@atagroup-eg.com </li>
+           <li><i class="fa fa-envelope"></i> importexport@atagroup-eg.com </li>
+           <li><i class="fa fa-envelope"></i> mahmoudata@atagroup-eg.com </li>
+           <li><i class="fa fa-envelope"></i> ossamaata@atagroup-eg.com </li>
+           <li><i class="fa fa-envelope"></i> sales@atagroup-eg.com </li>
        </ul>
       </div>
       
@@ -68,6 +73,11 @@
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.bxslider.min.js"></script>
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>gmap3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+
+  <script type="text/javascript" src="<?= JS_DIR; ?>lightgallery.min.js"></script>
+    <script type="text/javascript" src="<?= JS_DIR; ?>script.js"></script>
+    <script type="text/javascript" src="<?= JS_DIR; ?>script.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>script.js"></script>
 </body>
 

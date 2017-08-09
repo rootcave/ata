@@ -43,7 +43,12 @@
                                 <p><img alt="" src="<?= IMG_DIR; ?>address.png">الادارة: 7 شارع عبد العزيز - القاهرة</p>
 
                                 <p><img alt="" src="<?= IMG_DIR; ?>tel.png">23958433 - 23958983</p>
-                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"><a href="#">info@ata.com</a></p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> info@ata.com</p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> customerservice@atagroup-eg.com</p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> importexport@atagroup-eg.com</p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> mahmoudata@atagroup-eg.com</p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> ossamaata@atagroup-eg.com</p>
+                                <p><img alt="" src="<?= IMG_DIR; ?>mail.png"> sales@atagroup-eg.com</p>
                             </div>
                             <div class="span6 find-us">
                                 <h3>اعثر علينا</h3>

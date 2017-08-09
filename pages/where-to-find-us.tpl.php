@@ -9,19 +9,21 @@
     
 
        
-    .first-table table{
-        direction: rtl;
-    }
-    .second-table{
+
+    .second-table,
+    .third-table{
         margin-left: 25%;
         margin-right: 25%;
-    } 
-    .second-table table{
+    }
+    .first-table table,
+    .second-table table,
+    .third-table table{
         direction: rtl;
     }
     
     .first-table h4,
-    .second-table h4{
+    .second-table h4,
+    .third-table h4{
         color: #315ba6;
         font-size: 1.6em;
         margin-bottom: 20px;
@@ -320,5 +322,29 @@
     </tr>
      
 </table>
+    </div>
+
+
+    <div class="third-table">
+        <h4 class="text-center">التسوق الالكترونى</h4>
+        <table class="table">
+            <tr>
+                <th>اسم العميل</th>
+                <th>المحافظه</th>
+                <th>رقم الموبيل</th>
+            </tr>
+
+            <tr>
+                <td>سوق</td>
+                <td><a href="https://egypt.souq.com/eg-en/" target="_blank">اضغط هنا </a></td>
+                <td>19932</td>
+            </tr>
+
+            <tr>
+                <td>جوميا</td>
+                <td><a href="https://www.jumia.com.eg" target="_blank">اضغط هنا </a></td>
+                <td>002-19586</td>
+            </tr>
+        </table>
     </div>
     </div>

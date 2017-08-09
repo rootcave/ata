@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="<?= CSS_DIR; ?>jquery.fancybox.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?= CSS_DIR; ?>jquery.bxslider.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?= CSS_DIR; ?>flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet"  href="<?= CSS_DIR; ?>lightgallery.min.css" type="text/css" media="screen" />
+
     <link rel="stylesheet" href="<?= CSS_DIR; ?>style.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?= CSS_DIR; ?>custom.css" type="text/css" media="screen">
     <link rel="stylesheet" href="<?= CSS_DIR; ?>responsive.css" type="text/css" media="screen">
