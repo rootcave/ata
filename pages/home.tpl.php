@@ -11,10 +11,8 @@
     <div class="overlay">
    <ul class="bxslider">
   <li><img src="assets/images/slider/1.png" /></li>
-<!--  <li><img src="assets/images/slider/6.png" /></li>-->
-<!--  <li><img src="assets/images/slider/3.png" /></li>-->
-<!--  <li><img src="assets/images/slider/11.png" /></li>-->
-<!--  <li><img src="assets/images/slider/10.png" /></li>-->
+  <li><img src="assets/images/slider/4.png" /></li>
+  <li><img src="assets/images/slider/3.png" /></li>
   <li><img src="assets/images/slider/2.png" /></li>
 
 
@@ -92,11 +90,11 @@
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv6.png">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv3.jpg">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
                                         <p>شاشة Curved LED</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv6.png" title="شاشة Curved LED" data-fancybox-group="portfolio"></a>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv3.jpg" title="شاشة Curved LED" data-fancybox-group="portfolio"></a>
                                         <a class="link-image" href="tv-curved-led.php"></a>
                                     </div>
                                 </div>
@@ -115,11 +113,11 @@
                                     </div>
                                 </div>
                                 <div class="span3 project-post">
-                                    <img alt="" src="<?= IMG_DIR; ?>products/tv-silver.png">
+                                    <img alt="" src="<?= IMG_DIR; ?>products/tv5.jpg">
                                     <div class="project-content">
                                         <h2>شاشات</h2>
                                         <p>شاشة SMART SILVER LED</p>
-                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv-silver.png" title="شاشة SMART SILVER LED" data-fancybox-group="portfolio"></a>
+                                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv5.jpg" title="شاشة SMART SILVER LED" data-fancybox-group="portfolio"></a>
                                         <a class="link-image" href="tv-silver-smart.php"></a>
                                     </div>
                                 </div>
@@ -149,30 +147,15 @@
             </section>
 
             <section class="team">
-                <h2><span>فريق العمل</span></h2>
+                <h2><span>المصانع</span></h2>
                 <div class="row-fluid">
-                    <div class="span4 team-member">
-                        <h3>عطا عبد الحميد</h3>
-                        <img alt="" src="<?= IMG_DIR; ?>team/avatar-placeholder.png">
-                        <div>
-                            <p>مدير قسم المبيعات</p>
-                        </div>
+                    
+                    <div class="span12 team-member">
+
+                        <img alt="" src="<?= IMG_DIR; ?>masna3/1.png">
+
                     </div>
-                    <div class="span4 team-member">
-                        <h3>محمود عطا</h3>
-                        <img alt="" src="<?= IMG_DIR; ?>team/GM.jpg">
-                        <div>
-                        <p>رئيس مجلس الادارة</p>
-                            
-                        </div>
-                    </div>
-                    <div class="span4 team-member">
-                        <h3>  اسامة عطا </h3>
-                        <img alt="" src="<?= IMG_DIR; ?>team/CEO.jpg">
-                        <div>
-                            <p>مدير عام</p>
-                        </div>
-                    </div>
+
                 </div>
             </section>
 

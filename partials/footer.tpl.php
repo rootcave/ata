@@ -62,8 +62,6 @@
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.ba-cond.min.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.slitslider.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.nicescroll.js"></script>
-    <script type="text/javascript" src="<?= JS_DIR; ?>angular.min.js"></script>
-    <script type="text/javascript" src="<?= JS_DIR; ?>angular-route.min.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>bootstrap.min.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.imagesloaded.min.js"></script>
     <script type="text/javascript" src="<?= JS_DIR; ?>jquery.flexslider.js"></script>

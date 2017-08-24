@@ -40,7 +40,7 @@
                                 <div class="flexslider">
                                     <ul class="slides">
                                         <li>
-                                            <img alt="" src="<?= IMG_DIR; ?>products/tv4.png" />
+                                            <img alt="" src="<?= IMG_DIR; ?>products/tv4.jpg" />
                                         </li>
 
 

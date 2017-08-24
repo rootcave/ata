@@ -53,7 +53,7 @@
                     <div class="project-content">
                         <h2>شاشات</h2>
                         <p>شاشات SMART GOLD</p>
-                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv4.jpg" title="شاشات SMART GOLD" data-fancybox-group="portfolio"></a>
+                        <a class="zoom-image" href="<?= IMG_DIR; ?>products/tv4.jpg " title="شاشات SMART GOLD" data-fancybox-group="portfolio"></a>
                         <a class="link-image" href="tv-gold-smart.php"></a>
                     </div>
                 </div>
